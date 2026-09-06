@@ -139,7 +139,7 @@ Na Matriz foram utilizadas cinco VLANs:
 - VLAN 20 — Financeiro
 - VLAN 30 — RH
 - VLAN 40 — IT
-- VLAN 50 — Administração
+- VLAN 50 — Marketing
 
 Na Filial também foram utilizadas cinco VLANs:
 
@@ -183,7 +183,7 @@ Por exemplo, na Matriz:
 - `10.0.20.0/24` — Financeiro
 - `10.0.30.0/24` — RH
 - `10.0.40.0/24` — IT
-- `10.0.50.0/24` — Administração
+- `10.0.50.0/24` — Marketing
 
 O router recebeu endereços de gateway correspondentes a cada uma dessas redes.
 
