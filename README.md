@@ -152,7 +152,7 @@ Na Filial também foram utilizadas cinco VLANs:
 Cada VLAN possui uma rede IPv4 própria, permitindo separar logicamente os diferentes grupos de dispositivos.
 
 <p align="center">
-  <img src="labs/projeto2.png" alt="Topologia da rede - Dois Escritórios + Servidores" width="1000">
+  <img src="labs/pro8.png" alt="Topologia da rede - Dois Escritórios + Servidores" width="1000">
 </p>
 
 A utilização de VLANs demonstrou como uma empresa pode utilizar a mesma infraestrutura física para criar diferentes redes lógicas, proporcionando maior organização e facilidade na aplicação de políticas de segurança.
