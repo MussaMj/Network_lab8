@@ -54,7 +54,7 @@ Na **Matriz**, foram configuradas as seguintes VLANs:
 - VLAN 20 — Financeiro
 - VLAN 30 — RH
 - VLAN 40 — IT
-- VLAN 50 — Administração
+- VLAN 50 — Marketing
 
 Na **Filial**, foram configuradas:
 
